@@ -1,0 +1,16 @@
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\bin\Debug\netcoreapp1.1\CreditCards.IntegrationTests.deps.json
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\bin\Debug\netcoreapp1.1\CreditCards.IntegrationTests.runtimeconfig.json
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\bin\Debug\netcoreapp1.1\CreditCards.IntegrationTests.runtimeconfig.dev.json
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\bin\Debug\netcoreapp1.1\CreditCards.IntegrationTests.dll
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\bin\Debug\netcoreapp1.1\CreditCards.IntegrationTests.pdb
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\bin\Debug\netcoreapp1.1\CreditCards.dll
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\bin\Debug\netcoreapp1.1\CreditCards.pdb
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\obj\Debug\netcoreapp1.1\CreditCards.IntegrationTests.csproj.CoreCompileInputs.cache
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\obj\Debug\netcoreapp1.1\CreditCards.IntegrationTests.AssemblyInfoInputs.cache
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\obj\Debug\netcoreapp1.1\CreditCards.IntegrationTests.AssemblyInfo.cs
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\obj\Debug\netcoreapp1.1\CreditCards.IntegrationTests.dll
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\obj\Debug\netcoreapp1.1\CreditCards.IntegrationTests.pdb
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.IntegrationTests\obj\Debug\netcoreapp1.1\CreditCards.IntegrationTests.csprojResolveAssemblyReference.cache

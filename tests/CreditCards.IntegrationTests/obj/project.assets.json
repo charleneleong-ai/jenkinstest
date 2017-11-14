@@ -1951,6 +1951,12 @@
           "lib/netstandard1.0/Newtonsoft.Json.dll": {}
         }
       },
+      "OpenCover/4.6.519": {
+        "type": "package"
+      },
+      "OpenCoverToCoberturaConverter/0.2.6": {
+        "type": "package"
+      },
       "Remotion.Linq/2.1.1": {
         "type": "package",
         "dependencies": {
@@ -4409,7 +4415,9 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "1.1.1",
           "Microsoft.Extensions.Logging.Debug": "1.1.1",
           "Microsoft.NETCore.App": "1.1.2",
-          "Microsoft.VisualStudio.Web.BrowserLink": "1.1.0"
+          "Microsoft.VisualStudio.Web.BrowserLink": "1.1.0",
+          "OpenCover": "4.6.519",
+          "OpenCoverToCoberturaConverter": "0.2.6"
         },
         "compile": {
           "bin/placeholder/CreditCards.dll": {}
@@ -5966,6 +5974,68 @@
         "newtonsoft.json.9.0.1.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "tools/install.ps1"
+      ]
+    },
+    "OpenCover/4.6.519": {
+      "sha512": "oReudTijK4ghbd1GNTzl7Su2KzOufj2evTS5PTGAGC5ThfrThcInB/t9w2ISkcEacOsgLQTdG+PO0UUUGZ+zTw==",
+      "type": "package",
+      "path": "opencover/4.6.519",
+      "files": [
+        "License.rtf",
+        "MSBuild/OpenCover.MSBuild.dll",
+        "MSBuild/OpenCover.targets",
+        "SampleSln/.nuget/packages.config",
+        "SampleSln/Bom/Bom.csproj",
+        "SampleSln/Bom/BomManager.cs",
+        "SampleSln/Bom/Properties/AssemblyInfo.cs",
+        "SampleSln/BomSample.sln",
+        "SampleSln/BomTest/BomManagerTests.cs",
+        "SampleSln/BomTest/BomTest.csproj",
+        "SampleSln/BomTest/Properties/AssemblyInfo.cs",
+        "SampleSln/BomTest/packages.config",
+        "SampleSln/coverage.bat",
+        "SampleSln/packages/repositories.config",
+        "Samples/x64/OpenCover.Simple.Target.exe",
+        "Samples/x64/OpenCover.Simple.Target.pdb",
+        "Samples/x86/OpenCover.Simple.Target.exe",
+        "Samples/x86/OpenCover.Simple.Target.pdb",
+        "docs/ReleaseNotes.txt",
+        "docs/Usage.rtf",
+        "opencover.4.6.519.nupkg.sha512",
+        "opencover.nuspec",
+        "readme.txt",
+        "tools/Autofac.Configuration.dll",
+        "tools/Autofac.dll",
+        "tools/CrashReporter.NET.dll",
+        "tools/Gendarme.Framework.dll",
+        "tools/Gendarme.Rules.Maintainability.dll",
+        "tools/Mono.Cecil.Mdb.dll",
+        "tools/Mono.Cecil.Pdb.dll",
+        "tools/Mono.Cecil.dll",
+        "tools/OpenCover.Console.exe",
+        "tools/OpenCover.Console.exe.config",
+        "tools/OpenCover.Console.pdb",
+        "tools/OpenCover.Extensions.dll",
+        "tools/OpenCover.Extensions.pdb",
+        "tools/OpenCover.Framework.dll",
+        "tools/OpenCover.Framework.pdb",
+        "tools/log4net.config",
+        "tools/log4net.dll",
+        "tools/x64/OpenCover.Profiler.dll",
+        "tools/x86/OpenCover.Profiler.dll",
+        "transform/simple_report.xslt",
+        "transform/transform.ps1"
+      ]
+    },
+    "OpenCoverToCoberturaConverter/0.2.6": {
+      "sha512": "jNUOIqkVNdlJfr1lb4x9yn9V4o+v940vIFQ2r22TXxS2dGobsFcNGVh+j4J8Rip/mijUYZrbV4E+OjNmsMmP5g==",
+      "type": "package",
+      "path": "opencovertocoberturaconverter/0.2.6",
+      "files": [
+        "LICENSE.txt",
+        "opencovertocoberturaconverter.0.2.6.nupkg.sha512",
+        "opencovertocoberturaconverter.nuspec",
+        "tools/OpenCoverToCoberturaConverter.exe"
       ]
     },
     "Remotion.Linq/2.1.1": {
@@ -11346,6 +11416,8 @@
       "Microsoft.AspNetCore.TestHost >= 1.1.2",
       "Microsoft.NET.Test.Sdk >= 15.0.0",
       "Microsoft.NETCore.App >= 1.1.2",
+      "OpenCover >= 4.6.519",
+      "OpenCoverToCoberturaConverter >= 0.2.6",
       "System.ValueTuple >= 4.3.1",
       "xunit >= 2.2.0",
       "xunit.runner.visualstudio >= 2.2.0"
@@ -11360,11 +11432,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\chaleong\\Desktop\\ASP.NetCoreXUnitTest\\06-implementing-automated-functional-ui-testing-with-selenium\\after\\05PageObjectModels\\tests\\CreditCards.IntegrationTests\\CreditCards.IntegrationTests.csproj",
+      "projectUniqueName": "C:\\Users\\chaleong\\Desktop\\jenkinstest\\tests\\CreditCards.IntegrationTests\\CreditCards.IntegrationTests.csproj",
       "projectName": "CreditCards.IntegrationTests",
-      "projectPath": "C:\\Users\\chaleong\\Desktop\\ASP.NetCoreXUnitTest\\06-implementing-automated-functional-ui-testing-with-selenium\\after\\05PageObjectModels\\tests\\CreditCards.IntegrationTests\\CreditCards.IntegrationTests.csproj",
+      "projectPath": "C:\\Users\\chaleong\\Desktop\\jenkinstest\\tests\\CreditCards.IntegrationTests\\CreditCards.IntegrationTests.csproj",
       "packagesPath": "C:\\Users\\chaleong\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chaleong\\Desktop\\ASP.NetCoreXUnitTest\\06-implementing-automated-functional-ui-testing-with-selenium\\after\\05PageObjectModels\\tests\\CreditCards.IntegrationTests\\obj\\",
+      "outputPath": "C:\\Users\\chaleong\\Desktop\\jenkinstest\\tests\\CreditCards.IntegrationTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chaleong\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11381,8 +11453,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\chaleong\\Desktop\\ASP.NetCoreXUnitTest\\06-implementing-automated-functional-ui-testing-with-selenium\\after\\05PageObjectModels\\src\\CreditCards\\CreditCards.csproj": {
-              "projectPath": "C:\\Users\\chaleong\\Desktop\\ASP.NetCoreXUnitTest\\06-implementing-automated-functional-ui-testing-with-selenium\\after\\05PageObjectModels\\src\\CreditCards\\CreditCards.csproj"
+            "C:\\Users\\chaleong\\Desktop\\jenkinstest\\src\\CreditCards\\CreditCards.csproj": {
+              "projectPath": "C:\\Users\\chaleong\\Desktop\\jenkinstest\\src\\CreditCards\\CreditCards.csproj"
             }
           }
         }
@@ -11413,9 +11485,17 @@
             "target": "Package",
             "version": "2.2.0"
           },
+          "OpenCoverToCoberturaConverter": {
+            "target": "Package",
+            "version": "0.2.6"
+          },
           "Microsoft.NET.Test.Sdk": {
             "target": "Package",
             "version": "15.0.0"
+          },
+          "OpenCover": {
+            "target": "Package",
+            "version": "4.6.519"
           },
           "Microsoft.AspNetCore.TestHost": {
             "target": "Package",

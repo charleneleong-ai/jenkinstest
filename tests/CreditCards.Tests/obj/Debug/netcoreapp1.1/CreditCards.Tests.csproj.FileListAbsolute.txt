@@ -1,0 +1,16 @@
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\bin\Debug\netcoreapp1.1\CreditCards.Tests.deps.json
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\bin\Debug\netcoreapp1.1\CreditCards.Tests.runtimeconfig.json
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\bin\Debug\netcoreapp1.1\CreditCards.Tests.runtimeconfig.dev.json
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\bin\Debug\netcoreapp1.1\CreditCards.Tests.dll
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\bin\Debug\netcoreapp1.1\CreditCards.Tests.pdb
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\bin\Debug\netcoreapp1.1\CreditCards.dll
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\bin\Debug\netcoreapp1.1\CreditCards.pdb
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\obj\Debug\netcoreapp1.1\CreditCards.Tests.csproj.CoreCompileInputs.cache
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\obj\Debug\netcoreapp1.1\CreditCards.Tests.AssemblyInfoInputs.cache
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\obj\Debug\netcoreapp1.1\CreditCards.Tests.AssemblyInfo.cs
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\obj\Debug\netcoreapp1.1\CreditCards.Tests.dll
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\obj\Debug\netcoreapp1.1\CreditCards.Tests.pdb
+C:\Users\chaleong\Desktop\jenkinstest\tests\CreditCards.Tests\obj\Debug\netcoreapp1.1\CreditCards.Tests.csprojResolveAssemblyReference.cache
