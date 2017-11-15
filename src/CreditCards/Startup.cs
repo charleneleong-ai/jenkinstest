@@ -42,10 +42,12 @@ namespace CreditCards
             }
             else
             {
-                services.AddDbContext<AppDbContext>(
-                options => options.UseSqlServer(
-                    Configuration.GetConnectionString("DefaultConnection")));
-            }
+				services.AddDbContext<AppDbContext>(
+					options => options.UseInMemoryDatabase());
+				// services.AddDbContext<AppDbContext>(
+				// options => options.UseSqlServer(
+				//Configuration.GetConnectionString("DefaultConnection")));
+			}
             
 
             services.AddScoped<ICreditCardApplicationRepository, 
